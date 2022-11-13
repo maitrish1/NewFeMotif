@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NewFeMotif/static/css/main.f1d3bde3.css",
+    "main.js": "/NewFeMotif/static/js/main.069c0f9f.js",
+    "static/js/787.bba35194.chunk.js": "/NewFeMotif/static/js/787.bba35194.chunk.js",
+    "index.html": "/NewFeMotif/index.html",
+    "main.f1d3bde3.css.map": "/NewFeMotif/static/css/main.f1d3bde3.css.map",
+    "main.069c0f9f.js.map": "/NewFeMotif/static/js/main.069c0f9f.js.map",
+    "787.bba35194.chunk.js.map": "/NewFeMotif/static/js/787.bba35194.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1d3bde3.css",
+    "static/js/main.069c0f9f.js"
+  ]
+}
